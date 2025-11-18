@@ -12,7 +12,7 @@ public class palindrome {
         j=s.length()-1;
         flag=0;
         while(i<j&&flag=0){
-        if(s.char.At(i)!=s.charAt(j))
+        if(s.charAt(i)!=s.charAt(j))
         flag=1;
         
         i++;
