@@ -1,3 +1,4 @@
+package Let_01;
 import java.util.Scanner;
 public class natural_no {
     public static void main(String args[]) {

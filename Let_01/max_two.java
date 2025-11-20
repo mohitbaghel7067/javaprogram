@@ -1,3 +1,4 @@
+package Let_01;
 import java.util.Scanner;
 public class max_two {
    public static void main(String args[]) {
