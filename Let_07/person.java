@@ -1,4 +1,4 @@
-package Inheritance;
+package Let_07;
 import java.util.Scanner;
 public class person {
     void displayname(){

@@ -1,4 +1,4 @@
-package array;
+package Let_04;
 import java.util.Scanner;
 public class frequenci {
     int a[]=new int[10];

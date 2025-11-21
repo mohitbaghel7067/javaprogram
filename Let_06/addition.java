@@ -1,4 +1,4 @@
-package D_array;
+package Let_06;
 import java.util.Scanner;
 public class addition {
     int a[][]=new int[3][3];

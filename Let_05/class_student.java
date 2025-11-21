@@ -1,4 +1,4 @@
-package class_and_object;
+package Let_05;
 import java.util.Scanner;
 public class class_student {
     int roll;
