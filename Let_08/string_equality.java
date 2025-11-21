@@ -1,6 +1,6 @@
 //package Let_08;
 import java.util.Scanner;
-public class string {
+public class string_equality {
     public static void main(String[] args) {
         String str1=new String();
         String str2=new String();
