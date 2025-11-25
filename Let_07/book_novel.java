@@ -1,4 +1,4 @@
-package Let_07;
+//package Let_07;
 import java.util.Scanner;
 public class book_novel {
     public static void main(String[] args) {

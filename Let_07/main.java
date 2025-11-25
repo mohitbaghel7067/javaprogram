@@ -1,4 +1,4 @@
-package Let_07;
+//package Let_07;
 import java.util.Scanner;
  class Device {
     void poweron(){
@@ -16,7 +16,7 @@ class Gaminglaptop extends Laptop{
     }
 }
 public class main{
-    public static void Main(String[] args) {
+    public static void main(String[] args) {
         Gaminglaptop g=new Gaminglaptop();
         g.poweron();
         g.boot();
