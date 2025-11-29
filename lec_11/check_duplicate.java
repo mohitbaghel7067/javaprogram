@@ -1,4 +1,4 @@
-//package lec_11;
+package lec_11;
 import java.util.HashSet;
 public class check_duplicate {
     public static void main(String[] args) {
