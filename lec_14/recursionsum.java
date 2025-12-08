@@ -12,4 +12,3 @@ public static void main(String[] args) {
     printsum(1, 6, 0);
 }
 }
-//push
