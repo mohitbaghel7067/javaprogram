@@ -16,4 +16,4 @@ public class Iterater {
         System.out.println(List);
     }
     
-}//push
+}
