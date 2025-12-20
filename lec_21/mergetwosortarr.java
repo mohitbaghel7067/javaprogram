@@ -24,14 +24,14 @@ public class mergetwosortarr {
                 j++;
             }
             k++;
-            if(i==a.length){
+            if(i==a.length){//a array khatm ho -> b array k bacha hua element lo
                 while(j<b.length){
                 c[k]=a[j];
                 j++;
                 k++;
                 }
             }
-            if(j==b.length){
+            if(j==b.length){//b array khatm ho -> a array k bacha hua element lo
                 while(i<a.length){
                 c[k]=a[i];
                 i++;
