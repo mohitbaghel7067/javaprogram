@@ -1,4 +1,4 @@
-//package lec_22;
+
 import java.util.Scanner;
 public class countvowel {
     public static void main(String[] args) {
