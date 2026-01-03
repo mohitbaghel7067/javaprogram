@@ -13,4 +13,4 @@ public class handlingarray {
         System.out.println("byee!!");
     }
     
-}//push
+}
