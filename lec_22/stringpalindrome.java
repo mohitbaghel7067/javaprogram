@@ -21,4 +21,4 @@ public class stringpalindrome {
          }
          sc.close();
         }
-    }//p
+    }
