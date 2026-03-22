@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class diffarray {
    public static void main(String[] args) {
     Scanner sc=new Scanner(System.in);
@@ -52,5 +51,6 @@ while(idx<diff.length){
     System.out.print(diff[idx]);
     idx++;
 }
+sc.close();
    }
 }

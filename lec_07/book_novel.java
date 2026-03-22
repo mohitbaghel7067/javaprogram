@@ -19,7 +19,7 @@ class novel extends Book {
         System.out.println("the novel has an interesting storyline");
     }
 }
-public class book_novel {
+ class book {
     public static void main(String[] args) {
         novel n=new novel();
         n.read();

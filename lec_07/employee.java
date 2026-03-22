@@ -4,6 +4,7 @@ public class employee {
     void work(){
         Scanner sc= new Scanner(System.in);
         System.out.println("employee is working");
+        sc.close();
     }
     }
     class manager extends employee{
@@ -11,7 +12,7 @@ public class employee {
             System.out.println("manager is addtenmeeting");
         }
     }
-    public class main {
+     class Main {
         public static void main(String[] args) {
         manager m = new manager();
         m.work();

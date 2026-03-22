@@ -1,5 +1,4 @@
 import java.util.Scanner;
-
 public class bar {
    public static void main(String[] args) {
     Scanner sc=new Scanner(System.in);
@@ -19,9 +18,7 @@ public class bar {
     for(int floor=max;floor>=1;floor--){
         for(int i=0;i<arr.length;i++){
             if(arr[i]>=floor){
-                System.out.print("*3
-                1
-                21\t");
+                System.out.print("*\t");
 
             }
             else{

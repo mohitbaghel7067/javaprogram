@@ -1,6 +1,6 @@
 package lec_07;
 //package Let_07;
-import java.util.Scanner;
+//import java.util.Scanner;
  class Device {
     void poweron(){
         System.out.println("device is power on");
