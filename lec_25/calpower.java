@@ -16,5 +16,5 @@ public class calpower {
         int ans = calcpower( x,  n);
         System.out.println(ans);
     }
-    //push
+    
 }
