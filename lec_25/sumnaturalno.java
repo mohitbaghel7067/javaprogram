@@ -1,4 +1,5 @@
-public class sumnaturalno {
+import.java.util.*
+ public class sumnaturalno {
     public static void printsum(int i,int n,int sum){
         if(i==n){
             sum+=i;

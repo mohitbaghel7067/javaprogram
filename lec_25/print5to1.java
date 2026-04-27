@@ -1,5 +1,4 @@
-import java.util.Scanner;
-
+ import java.util.*;
 public class print5to1 {
     public static void printnumber(int n){
         if(n==0){

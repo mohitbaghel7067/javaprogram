@@ -1,3 +1,4 @@
+import.java.util.*
 public class reversestring {
     public static void printrev(String str,int idx) {
         if(idx==0){

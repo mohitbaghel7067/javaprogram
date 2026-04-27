@@ -1,3 +1,4 @@
+import.java.util.*;
 public class binary {
     static String binary(int n){
         if(n==0) return "0";

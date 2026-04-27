@@ -1,4 +1,6 @@
-public class calpower {
+ import.java.util.*
+ 
+ public class calpower {
     public static int calcpower(int x,int n) {
         if(n==0){
             return 1;

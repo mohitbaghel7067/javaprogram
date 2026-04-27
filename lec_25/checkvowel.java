@@ -1,3 +1,5 @@
+import.java.util.*
+ 
 public class checkvowel {
     static int vowel(String str,int i){
         if(i== str.length()) return 0;
