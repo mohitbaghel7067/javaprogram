@@ -14,5 +14,5 @@ public class fibonacci {
         int n=7;
         printfibonacci(a,b,n-2);
     }
-    //push
+    
 }
